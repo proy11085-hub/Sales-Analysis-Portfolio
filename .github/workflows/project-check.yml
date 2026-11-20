@@ -21,3 +21,8 @@ jobs:
           test -f SQL/analysis.sql
           test -f Dataset/README.md
           echo "All required project files exist!"
+      - name: Display project information
+        run: |
+          echo "Sales Analysis Portfolio"
+          echo "Repository check completed successfully!"
+          git log -1 --oneline
