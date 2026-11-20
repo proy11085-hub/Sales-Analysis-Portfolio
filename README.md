@@ -1,42 +1,100 @@
+
+
 \# Sales Analysis Portfolio
 
 
 
-\## Project Overview
+\## 1. Project Overview
 
-This project analyses sales data to identify business trends,
-
-revenue performance, and customer purchasing patterns.
+This project aims to analyse sales data and generate useful business insights using SQL, Excel, and Power BI.
 
 
 
-\## Tools Used
+\## 2. Project Objectives
+
+\- Analyse overall sales performance.
+
+\- Identify revenue trends.
+
+\- Compare product and category performance.
+
+\- Understand customer purchasing patterns.
+
+\- Create an interactive dashboard.
+
+
+
+\## 3. Tools and Technologies
 
 \- SQL
 
-\- Excel
+\- Microsoft Excel
 
-\- Power BI
+\- Microsoft Power BI
 
 \- Git and GitHub
 
 
 
-\## Project Structure
+\## 4. Repository Structure
 
-\- Dataset: Raw sales data
+```text
 
-\- SQL: SQL queries and analysis
+Sales-Analysis-Portfolio/
 
-\- Excel: Data cleaning and analysis
+│
 
-\- PowerBI: Interactive dashboard
+├── Dataset/
 
-\- Images: Project screenshots
+├── SQL/
+
+│   └── analysis.sql
+
+├── Excel/
+
+├── PowerBI/
+
+├── Images/
+
+├── README.md
+
+└── .gitignore
+
+```
 
 
 
-\## Project Status
+\## 5. Project Workflow
 
-In Progress
+1\. Collect sales data.
+
+2\. Clean and prepare the dataset.
+
+3\. Analyse data using SQL.
+
+4\. Perform additional analysis in Excel.
+
+5\. Build a Power BI dashboard.
+
+6\. Document the findings.
+
+
+
+\## 6. Current Status
+
+Project setup completed. Data analysis and dashboard development are pending.
+
+
+
+\## 7. Future Improvements
+
+\- Add business insights.
+
+\- Include dashboard screenshots.
+
+\- Document SQL queries.
+
+\- Add final project findings.
+
+
 
